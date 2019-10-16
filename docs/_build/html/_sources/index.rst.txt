@@ -40,6 +40,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin **ipsum magna**, 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
